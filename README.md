@@ -20,4 +20,6 @@ Output akan menampilkan:
  Biaya per kg
  Biaya tambahan volume
  Total biaya bayar
+ <img width="336" height="416" alt="image" src="https://github.com/user-attachments/assets/043d328e-b6bc-467e-ace4-8ceadf3777ed" />
+
  
